@@ -1,0 +1,12 @@
+.intro__text{
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin: 40px 0 33px 0;
+    max-width: 690px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+}

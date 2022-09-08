@@ -6,6 +6,7 @@
     width: 100%;
     padding: 56px 148px 92px 148px;
     background-color: #2A2C2F;
+    
 }
 
 @media screen and (max-width:1024px) {
@@ -19,5 +20,6 @@
     .lead{
         max-width: 768px;
         padding: 48px 0 88px 0;
+        overflow: hidden;
     }
 }

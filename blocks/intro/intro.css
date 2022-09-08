@@ -1,0 +1,13 @@
+.intro{
+    max-width: 960px;
+    margin-left: 148px;
+    padding-bottom: 92px;
+    overflow-x: hidden;
+}
+
+@media screen and (max-width:1024px) {
+    .intro{
+        margin-left: 48px;
+    }
+    
+}
