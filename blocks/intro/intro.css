@@ -1,13 +1,35 @@
 .intro{
-    max-width: 960px;
-    margin-left: 148px;
+    max-width: 984px;
+    margin-left: 148px;;
     padding-bottom: 92px;
     overflow-x: hidden;
-}
 
+}
+@media screen and (max-width:1280px) {
+    .intro{
+        margin-left:0;
+        margin: 0 auto;
+        padding: 0 24px 0 24px; 
+    }
+}
 @media screen and (max-width:1024px) {
     .intro{
-        margin-left: 48px;
+        margin-left:0;
+        /* margin: 0 auto; */
+        
     }
     
+}
+@media screen and (max-width:768px) {
+    .intro{
+        margin-left: 0;
+        padding: 0 24px 88px 24px; 
+    }
+    
+}
+@media screen and (max-width:720px){
+    .intro{
+        padding: 0 16px 64px 16px;
+    }
+
 }
