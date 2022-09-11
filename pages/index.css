@@ -39,3 +39,7 @@
 @import url(/blocks/place/card/__website/card__website.css);
 @import url(/blocks/place/card/__website/__website-link/card__website-link.css);
 @import url(/blocks/place/card/__website/__website-url/card__website-url.css);
+/* website-link */
+@import url(/blocks/place/card/__website/__website-link/_status/card__Website-link_status_disabled.css);
+@import url(/blocks/place/card/__website/__website-url/_status/card__website-url_status_disabled.css);
+
