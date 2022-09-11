@@ -26,20 +26,4 @@
 @import url(/blocks/photo-grid/__wrapper/photo-grid__wrapper.css);
 @import url(/blocks/photo-grid/__item/photo-grid__item.css);
 
-/* place */
-@import url(/blocks/place/place.css);
-@import url(/blocks/place/__wrapper/place__wrapper.css);
-@import url(/blocks/place/card/card.css);
-@import url(/blocks/place/card/__content/card__content.css);
-@import url(/blocks/place/card/__content/__content-left/card__content-left.css);
-@import url(/blocks/place/card/__content/__content-rigth/card__content-rigth.css);
-@import url(/blocks/place/card/__img/card__img.css);
-@import url(/blocks/place/card/__paragraph/card__paragraph.css);
-@import url(/blocks/place/card/__tittle/card__title.css);
-@import url(/blocks/place/card/__website/card__website.css);
-@import url(/blocks/place/card/__website/__website-link/card__website-link.css);
-@import url(/blocks/place/card/__website/__website-url/card__website-url.css);
-/* website-link */
-@import url(/blocks/place/card/__website/__website-link/_status/card__Website-link_status_disabled.css);
-@import url(/blocks/place/card/__website/__website-url/_status/card__website-url_status_disabled.css);
 
